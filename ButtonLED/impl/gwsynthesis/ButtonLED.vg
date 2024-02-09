@@ -1,0 +1,36 @@
+//
+//Written by GowinSynthesis
+//Product Version "V1.9.9 Beta-4 Education"
+//Thu Feb 08 12:41:45 2024
+
+//Source file index table:
+//file0 "\C:/Users/darre/Documents/ButtonLED/src/ButtonLED.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+fzjIF1ZUlDwhHKFM4N6Dxr7el5nO1v/v9V/yMOvSivlSRnQe+S/kEb9PzokO3rGTHup7kctvO2jv
+Sl6PoLUp9Q9p+QrBut7m6euT0qJNYfA+iEIYTqHF6Uw5xYuMQHJmvi2hrlB3eT3rYhvcQ/BfNqbX
+SFYPhUhNfsLXLHci0YGnw+iF8R53rYn2cM7fQz05DBhcD+iwrl4PEvU6fPLMH5dj7mW8CXia2gf2
+0gZBi1NHB0QXt6eCE5qcyBXVsfeM9ipHPOYHtOsiFS7+M8plGyapH5ASsyLoD9a/wHevgKG1iNPN
+zI+YV5BVBzhotH6/6WufdSj8pREYQOJ/ZpNLiA==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=384)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+qaTwxcwVTtJrJKOVH1NwWH1gCybmQ39Ti2Fh7bKhYIjSKhC6gse9GZMjm33IldxH+7ls2bMWZsOv
+CH1rst13QfHAop49ouNg2jnZOupeT2ABQrfIKRFiGcWcRUGFOo9PJCmqIyZaZap2/+kXca6xIzo2
+3DJQWBOm7JdFOQkQH6YkiG26U689cF6dLD+j8qmTCcZIcf3gZM5rExkhR0DfE5RS2NrySdFnnOXE
+Lgu9HKzNOfNILBkm1cifMzTGiFQYiFRTF2EfdGAwMmogRuvh8FRdirJJQ076GOljUVmUj823AXTB
++i4qSL2ahO/3oVLAtNNFjpLHNP9/ickDvJi1k3Fx/1O5zJ6o/QBWGIxMGP92lAJeZVJC6T0ZZalD
+i14JHtvAct1I/b/iutrIV17pXvB2PiEtnQCMMjsbqiAVCctzd9+O1q1Ys8jKvjT/xCN0CHX4fw6k
+eMVBXv2LQQZvALiuLsTGqIXhz4e09GEpH4jC3QwvNzAsIAfEuiXzPyeM
+`pragma protect end_protected
